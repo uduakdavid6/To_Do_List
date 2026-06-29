@@ -1,2 +1,2 @@
-# To_Do_List
+# Quiz_Time
 A project I began incorporating JS   
